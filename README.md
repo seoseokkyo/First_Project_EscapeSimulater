@@ -33,6 +33,18 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 
 <p align="justify">
 프로젝트 개요/동기
+<p align="left">
+  <br>
+  <img src="./images/common/EscapeSimulatorImage.jpg">
+  <br>
+  
+	- 언리얼엔진에서 플레이어의 상호작용을 중점으로 학습하기 위한 프로젝트
+	- Escape Simulator을 레퍼런스로 2개 스테이지 모작 진행
+	- 3주간 2인으로 진행
+	- 블루프린트만 사용
+  
+</p>
+
 </p>
 
 <p align="center">
@@ -43,9 +55,9 @@ GIF Images
 
 ## 기술 스택
 
-| 	Git		 |	GitHub	|UnrealEngine|
-| :--------: | :------: | 	:------: |
-|   ![git]   | ![github]| 	![ue]	 |
+|	GitHub	|UnrealEngine|
+| :------: 	| 	:------: |
+| ![github]	| 	![ue]	 |
 
 <br>
 
