@@ -52,8 +52,6 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
   </tr>
 </table>
 
-<br>
-
 ## 기술 스택
 
 |	GitHub	|UnrealEngine|
@@ -75,12 +73,101 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 이번 프로젝트에서는 특기할만한 코드작업은 없다 생각하여 회고하는 느낌으로 작성하였습니다.
 
 ### 2-1. 금고 에셋 및 기능 제작
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/StrongBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>실제 게임에 있는 금고의 느낌을 살려서 제작한 에셋</li>
+        <li>3자리 비밀번호를 입력하고, 입력한 비밀번호가 맞는 번호일 경우 정면 중앙의 핸들이 돌아가며 금고가 열리는 퍼즐</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 기능 2
+### 2-2. 태엽상자 에셋 및 기능 제작
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/GearBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>실제 게임에 있는 태엽상자의 느낌을 살려서 제작한  에셋</li>
+        <li>양쪽에 기어가 들어있는 문이 있으며 처음에는 한쪽 문만 열 수 있고 거기에 있는 기어를 상자에 꽂아서 돌리면 반대편 문이 열리게 되는 퍼즐</li>
+		<li>모든 기어를 태엽상자에 꽂게되면 상자의 상단에서 다음퍼즐의 힌트가 나오는 구조</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 기능 3
+### 2-3. 퍼즐보드 에셋 및 기능 제작
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/PuzzleBoard.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>실제 게임에 있는 태엽상자의 느낌을 살려서 제작한  에셋</li>
+        <li>양쪽에 기어가 들어있는 문이 있으며 처음에는 한쪽 문만 열 수 있고 거기에 있는 기어를 상자에 꽂아서 돌리면 반대편 문이 열리게 되는 퍼즐</li>
+		<li>모든 기어를 태엽상자에 꽂게되면 상자의 상단에서 다음퍼즐의 힌트가 나오는 구조</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 기능 4
+### 2-4. 그 외 제작 에셋들
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/Wardrobe.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>스테이지에 있는 힌트 종이를 확인한 뒤 다이얼을 맞추면 내부에 상자가 있는 액터</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/Lamp.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>램프의 전원을 키면 TEXT부분에 힌트 숫자가 나오는 액터</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/Window.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>창문을 열면 그 앞에 퍼즐 또는 힌트가 있을걸 구상하고 만들었으나 창문의 역할만 하게 된 액터</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/LockedBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>스테이지에 있는 힌트를 확인한 뒤 다이얼을 맞추면 상자가 열리는 액터</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
