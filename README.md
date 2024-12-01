@@ -35,18 +35,22 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 
 ## 1. 프로젝트 소개
 
-<div style="display: flex; align-items: center;">
-  <img src="./images/common/EscapeSimulatorImage.jpg" alt="Escape Simulator Thumbnail" style="width: 300px; margin-right: 20px;">
-  <div>
-    <h3>프로젝트 개요/동기</h3>
-    <ul>
-      <li>언리얼엔진에서 플레이어의 상호작용을 중점으로 학습하기 위한 프로젝트</li>
-      <li>Escape Simulator을 레퍼런스로 2개 스테이지 모작 진행</li>
-      <li>3주간 2인으로 진행</li>
-      <li>블루프린트만 사용</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/EscapeSimulatorImage.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <h3>프로젝트 개요/동기</h3>
+      <ul>
+        <li>언리얼엔진에서 플레이어의 상호작용을 중점으로 학습하기 위한 프로젝트</li>
+        <li>Escape Simulator을 레퍼런스로 2개 스테이지 모작 진행</li>
+        <li>3주간 2인으로 진행</li>
+        <li>블루프린트만 사용</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
