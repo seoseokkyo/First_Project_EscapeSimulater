@@ -76,7 +76,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/StrongBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/StrongBox.jpg" alt="StrongBox" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -91,7 +91,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/GearBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/GearBox.jpg" alt="GearBox" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -107,7 +107,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/PuzzleBoard.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/PuzzleBoard.jpg" alt="PuzzleBoard" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -123,7 +123,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/Wardrobe.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/Wardrobe.jpg" alt="Wardrobe" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -135,7 +135,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/Lamp.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/Lamp.jpg" alt="Lamp" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -147,7 +147,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/Window.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/Window.jpg" alt="Window" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
@@ -159,11 +159,28 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/LockedBox.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/LockedBox.jpg" alt="LockedBox" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
         <li>스테이지에 있는 힌트를 확인한 뒤 다이얼을 맞추면 상자가 열리는 액터</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 2-5. 깃 관리
+<table>
+  <tr>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./images/common/Git.jpg" alt="Git" style="width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top; text-align: left;">
+      <ul>
+        <li>선호하는 깃 관리방식인 Release/Work(최신)/Worker1/Worker2....방식으로 관리를 하였으며 기존에는 깃을 사용할 때 로컬로만 사용하여 깃허브는 처음 사용을 하게 됨</li>
+        <li>사용법이 다른부분은 전혀 없었으나 Git Bash의 커맨드창이 아닌 GUI가있는 Git을 처음 사용하며 익숙해지게 됨</li>
+		<li>Git Bash에서 자주 사용하던 특정 기능들은 GitHub Desktop에는 없거나 못찾아서 두개를 잘 혼용하면 이전보다 더욱 편하게 Git을 사용할 수 있음을 알게됨</li>
+		<li>블루프린트 기반 프로젝트는 버전관리가 상당히 어려움이 있다는것을 알게됨</li>
       </ul>
     </td>
   </tr>
