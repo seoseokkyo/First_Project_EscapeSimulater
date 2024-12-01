@@ -35,19 +35,18 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 
 ## 1. 프로젝트 소개
 
-<p align="justify">
-프로젝트 개요/동기
-<p align="left">
-  <br>
-  <img src="./images/common/EscapeSimulatorImage.jpg">
-  <br>
-  
-	- 언리얼엔진에서 플레이어의 상호작용을 중점으로 학습하기 위한 프로젝트
-	- Escape Simulator을 레퍼런스로 2개 스테이지 모작 진행
-	- 3주간 2인으로 진행
-	- 블루프린트만 사용
-  
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="./images/common/EscapeSimulatorImage.jpg" alt="Escape Simulator Thumbnail" style="width: 300px; margin-right: 20px;">
+  <div>
+    <h3>프로젝트 개요/동기</h3>
+    <ul>
+      <li>언리얼엔진에서 플레이어의 상호작용을 중점으로 학습하기 위한 프로젝트</li>
+      <li>Escape Simulator을 레퍼런스로 2개 스테이지 모작 진행</li>
+      <li>3주간 2인으로 진행</li>
+      <li>블루프린트만 사용</li>
+    </ul>
+  </div>
+</div>
 
 <br>
 
@@ -61,7 +60,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 
 ## 2. 진행한 작업
 
-첫 계획은 각자 하나의 스테이지를 제작하려 하였으나 프로젝트 팀원 둘 다 언리얼을 처음 만져보는 단계여서 생각보다 기초작업이 딜레이가 되었고, 작업 중간중간 계속 소통이 필요하다 생각되어 완성까지 남은 작업을 리스트업 해놓고 손이 닿는대로 진행을 하되 작업중간중간 진행관련을 소통하며 진행하게 됨
+첫 계획은 각자 하나의 스테이지를 제작하려 하였으나 프로젝트 팀원 둘 다 언리얼을 처음 만져보는 단계여서 생각보다 기초작업이 딜레이가 되었고, 작업 중간중간 계속 소통이 필요하다 생각되어 완성까지 남은 작업을 리스트업 해놓고 손이 닿는대로 진행을 하되 진행관련을 소통하며 진행하게 됨
 
 주로 제가 진행한 작업은 다음과 같습니다.
 깃허브 관리
@@ -71,7 +70,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
 
 이번 프로젝트에서는 특기할만한 코드작업은 없다 생각하여 회고하는 느낌으로 작성하였습니다.
 
-### 기능 1
+### 2-1. 금고 에셋 및 기능 제작
 
 ### 기능 2
 
