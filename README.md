@@ -112,7 +112,7 @@ _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
         <li>실제 게임에 있는 태엽상자의 느낌을 살려서 제작한  에셋</li>
-        <li>양쪽에 문이 있으며 처음에는 스테이지내에서 기어를 하나 획득한 뒤 한쪽 문을 열 수 있고 거기에 있는 기어를 상자에 꽂으면 버튼이 있는 반대편 문이 열리게 되는 퍼즐</li>
+        <li>양쪽에 문이 있으며 스테이지내에서 기어를 하나 획득한 뒤 한쪽 문을 열 수 있고 거기에 있는 기어를 상자에 꽂으면 버튼이 있는 반대편 문이 열리게 되는 퍼즐</li>
 		<li>모든 기어를 태엽상자에 꽂게되면 상자의 상단에서 다음퍼즐의 힌트가 나오는 구조</li>
       </ul>
     </td>
