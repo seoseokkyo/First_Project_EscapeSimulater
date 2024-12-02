@@ -19,7 +19,7 @@ A simple and easy to use blog and portfolio theme for Jekyll
 _Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma.io/)_ -->
 
 
-# 프로젝트 이름
+# First_Project_EscapeSimulater
 
 <p align="center">
   <br>
